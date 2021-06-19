@@ -1,1 +1,1 @@
-# Arduino_Based_Smart_TrafficLight_ControlSystem
+Density-based Arduino's traffic light and barrier system
